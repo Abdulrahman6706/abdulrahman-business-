@@ -76,3 +76,34 @@ button:hover {
     font-size: 18px;
     line-height: 1.6;
 }
+
+.services {
+    padding: 60px 20px;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.services h2 {
+    color: #007BFF;
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.card {
+    background: white;
+    width: 280px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.card h3 {
+    color: #007BFF;
+}
