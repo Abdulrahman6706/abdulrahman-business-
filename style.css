@@ -35,3 +35,25 @@ button {
 button:hover {
     background: #0056b3;
 }
+
+.hero {
+    background: linear-gradient(135deg, #007BFF, #00C6FF);
+    color: white;
+    text-align: center;
+    padding: 80px 20px;
+}
+
+.hero h2 {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.hero p {
+    font-size: 18px;
+    margin-bottom: 25px;
+}
+
+.hero button {
+    font-size: 18px;
+    padding: 12px 25px;
+}
