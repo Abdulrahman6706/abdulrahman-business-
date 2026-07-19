@@ -221,3 +221,13 @@ footer {
 .contact a:hover {
     background: #1da851;
 }
+.portfolio {
+    background: #f8f9fa;
+    text-align: center;
+    padding: 60px 20px;
+}
+
+.portfolio h2 {
+    color: #007BFF;
+    margin-bottom: 30px;
+}
