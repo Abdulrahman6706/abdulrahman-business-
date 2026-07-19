@@ -35,8 +35,13 @@ button {
     cursor: pointer;
 }
 
+button {
+    transition: all 0.3s ease;
+}
+
 button:hover {
     background: #0056b3;
+    transform: scale(1.05);
 }
 
 .hero {
