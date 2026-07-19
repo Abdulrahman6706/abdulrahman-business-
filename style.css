@@ -136,3 +136,11 @@ button:hover {
     font-size: 18px;
     margin: 10px 0;
 }
+
+footer {
+    background: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
