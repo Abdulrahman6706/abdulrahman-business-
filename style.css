@@ -208,3 +208,16 @@ footer {
 footer {
     animation: fadeIn 1s ease-in-out;
 }
+.contact a {
+    display: inline-block;
+    background: #25D366;
+    color: white;
+    text-decoration: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.contact a:hover {
+    background: #1da851;
+}
