@@ -231,3 +231,18 @@ footer {
     color: #007BFF;
     margin-bottom: 30px;
 }
+.portfolio .card {
+    background: linear-gradient(135deg, #007BFF, #00C6FF);
+    color: white;
+    border-radius: 12px;
+    padding: 20px;
+    transition: transform 0.3s ease;
+}
+
+.portfolio .card:hover {
+    transform: translateY(-8px);
+}
+
+.portfolio .card h3 {
+    color: white;
+}
