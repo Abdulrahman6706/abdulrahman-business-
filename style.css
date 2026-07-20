@@ -48,10 +48,14 @@ button:hover {
 }
 
 .hero {
-    background: linear-gradient(135deg, #007BFF, #00C6FF);
+    background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),
+                url("welding.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
     color: white;
     text-align: center;
-    padding: 80px 20px;
+    padding: 100px 20px;
 }
 
 .hero h2 {
