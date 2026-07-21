@@ -296,3 +296,7 @@ button:hover,
 .btn:hover {
     background: #1da851;
 }
+#why-us {
+    padding: 50px 20px;
+    text-align: center;
+}
